@@ -29,7 +29,7 @@
 
   -🌱 I’m currently learning ... NodeJs
   
-  -👯 I’m looking to collaborate on ... Nodejs
+  -👯 I’m looking to collaborate on ... NodeJs
   
   -💬 Ask me about ... every thing
   
@@ -44,7 +44,7 @@
 <br/>
 <div>
 <img  src="https://github-readme-stats.vercel.app/api?username=armanvhdev&show_icons=true&theme=cobalt">
-<a href="https://github.com/muskanrani/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
+<a href="https://github.com/armanvhdev/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
 
 </div>
 <br/>
