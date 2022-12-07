@@ -41,7 +41,6 @@
 
 <details style="margin-bottom:30px">
 <summary align="center" style="font-size:20px">&#9776; Github Stats </summary>
-<hr/>
 <br/>
 <div>
 <img  src="https://github-readme-stats.vercel.app/api?username=armanvhdev&show_icons=true&theme=cobalt">
@@ -53,7 +52,6 @@
 
 
 <h2 align="center" >Top Technologies</h2>
-<hr/>
 <br/>
 <div align="center">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f0db4f">
@@ -65,7 +63,6 @@
 <br/>
 
 <h2 align="center" >Skills</h2>
-<hr/>
 <br/>
 <div >
   <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F">
