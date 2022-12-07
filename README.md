@@ -77,7 +77,6 @@
   <img src="https://img.shields.io/badge/-github-171515?style=for-the-badge&labelColor=black&logo=github">
   <img src="https://img.shields.io/badge/-visualstudiocode-0078d7?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=0078d7">
   <img src="https://img.shields.io/badge/-webstorm-171515?style=for-the-badge&labelColor=black&logo=webstorm&logoColor=white">
-  <img src="https://img.shields.io/badge/-windows-00adef?style=for-the-badge&labelColor=black&logo=windows&logoColor=00adef">
   <img src="https://img.shields.io/badge/-kalilinux-333333?style=for-the-badge&labelColor=black&logo=kalilinux&logoColor=white">
   <img src="https://img.shields.io/badge/-linux-171515?style=for-the-badge&labelColor=black&logo=linux">
 </div>
