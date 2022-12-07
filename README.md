@@ -44,7 +44,7 @@
 <br/>
 <div>
 <img  src="https://github-readme-stats.vercel.app/api?username=armanvhdev&show_icons=true&theme=cobalt">
-<a href="https://github.com/armanvhdev/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanrani&layout=compact&theme=tokyonight" /></a>
+<a href="https://github.com/armanvhdev/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanvhdev&layout=compact&theme=tokyonight" /></a>
 
 </div>
 <br/>
